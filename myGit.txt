@@ -1,0 +1,44 @@
+
+[pull - 자료 가져오기]
+
+
+git pull origin master
+
+(repository에서 모든 자료를 끌어온다)
+
+
+==================================
+
+
+[push - 자료 올리기]
+
+
+git status
+(현재 git과의 상태를 체크)
+
+
+git add .
+(변경된 파일들을 트래킹 해달라)
+
+
+git commit -m "message"
+(커맨트 달기)
+
+
+
+git push origin +master
+(실제로 git에 자료 올리기)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
